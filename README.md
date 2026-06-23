@@ -5,20 +5,6 @@
 I work from Cartagena, Colombia, turning data and AI into software that is genuinely
 useful for real people. Right now, most of my energy goes into **Bequo**.
 
----
-
-## What I'm building — Bequo
-
-**Bequo is an AI copilot that helps anyone win scholarships to study abroad.**
-
-Today, the best opportunities tend to go to the students who can afford expensive
-advisors. Bequo gives every student that same leverage: it finds real scholarships,
-tells you your honest chances of winning them, and helps you write a stronger
-application.
-
-The AI *is* the product — not another portal full of forms. The goal is simple: a
-student should open Bequo and feel *"I belong here"* — guided by something that
-actually wants them to win, and tells them the truth.
 
 ---
 
@@ -32,10 +18,9 @@ something people can actually decide and act on.
 
 ## Selected work
 
+- **[bequo.ai](https://github.com/pxtroniwnl/bequo-ai)** — future....
 - **[pollanow](https://github.com/pxtroniwnl/pollanow)** — a live World Cup 2026
   prediction game to play with friends. *[Try it ↗](https://pollanow.vercel.app)*
-- **[f1-pole-predictor](https://github.com/pxtroniwnl/f1-pole-predictor)** — an AI
-  system that predicts the key outcomes of a Formula 1 Grand Prix weekend.
 - **[huya-web](https://github.com/pxtroniwnl/huya-web)** — an interactive weather
   dashboard built for NASA Space Apps 2025.
 
@@ -52,4 +37,4 @@ Bequo is the first.
 - **LinkedIn** — [in/pxtron](https://www.linkedin.com/in/pxtron)
 - **GitHub** — [pxtroniwnl](https://github.com/pxtroniwnl)
 
-<sub>Studying Data Science at Universidad Tecnológica de Bolívar.</sub>
+<sub>Do whatever you like!</sub>
