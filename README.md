@@ -19,8 +19,6 @@ something people can actually decide and act on.
 ## Selected work
 
 - **[bequo.ai](https://github.com/pxtroniwnl/bequo-ai)** — future....
-- **[pollanow](https://github.com/pxtroniwnl/pollanow)** — a live World Cup 2026
-  prediction game to play with friends. *[Try it ↗](https://pollanow.vercel.app)*
 - **[huya-web](https://github.com/pxtroniwnl/huya-web)** — an interactive weather
   dashboard built for NASA Space Apps 2025.
 
