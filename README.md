@@ -1,31 +1,37 @@
 # Hi, I'm Alejandro 👋
 
-**I build AI products grounded in data and machine learning.**
+**I build AI-powered startups on top of solid data engineering.**
 
-I work from Cartagena, Colombia, turning data and AI into software that is genuinely
-useful for real people. Right now, most of my energy goes into **Bequo**.
+Working from Cartagena, Colombia 🇨🇴 — I turn messy, real-world data into products people actually use. My focus: shipping AI products end-to-end, from the data pipeline to the deployed app.
 
+Right now, most of my energy goes into **Bequo**.
 
 ---
 
-## A bit of background
+## What I do
 
-I've shipped machine-learning and data work across a few settings — a data science
-internship at iHungo, an International Nominee selection at NASA Space Apps 2025, and
-a range of projects spanning computer vision, satellite imagery, and predictive
-models. The throughline is the same: take messy, real-world data and turn it into
-something people can actually decide and act on.
+- 🚀 **Startups** — I design and build products from zero: idea → data → model → shipped software. Bequo is the first of the companies I want to build.
+- 🤖 **Applied AI/ML** — forecasting, computer vision, NLP and agentic workflows with LLMs. Models only matter if they ship.
+- 🛠️ **Data Engineering** — ETL/ELT pipelines, batch ingestion, analytics-ready data. Python, SQL, DuckDB, Docker, AWS.
+
+## Background
+
+- 📊 Data Science & Data Engineering intern at **iHungo** — built ETL pipelines and BI dashboards used for real decisions.
+- 🛰️ **International Nominee — NASA Space Apps 2025**, building a weather intelligence dashboard.
+- 🎓 Data Science student at UTB + calculus TA. Currently going deep on data engineering (DataTalksClub DE Zoomcamp, DeepLearning.AI × AWS Data Engineering Certificate).
 
 ## Selected work
 
-- **[bequo.ai](https://github.com/pxtroniwnl/bequo-ai)** — future....
-- **[huya-web](https://github.com/pxtroniwnl/huya-web)** — an interactive weather
-  dashboard built for NASA Space Apps 2025.
+- **[bequo.ai](https://github.com/pxtroniwnl/bequo-ai)** — AI startup in the making. Building in public soon 👀
+- **[Crypto Pipeline](https://github.com/pxtroniwnl/crypto-pipeline)** — Cryptocurrency market data ELT pipeline, built in phases as a data engineering learning project.
+
+## Stack
+
+`Python` `SQL / PostgreSQL` `DuckDB` `Docker` `AWS` `FastAPI` `Scikit-learn` `Pandas` `Next.js` `Supabase` `Git`
 
 ## What I'm working toward
 
-I want to build companies that give people leverage they couldn't access before.
-Bequo is the first.
+I want to build companies that give people leverage they couldn't access before — products where the data infrastructure and the AI are the moat, not an afterthought. **Bequo is the first.**
 
 ---
 
@@ -35,4 +41,4 @@ Bequo is the first.
 - **LinkedIn** — [in/pxtron](https://www.linkedin.com/in/pxtron)
 - **GitHub** — [pxtroniwnl](https://github.com/pxtroniwnl)
 
-<sub>Do whatever you like!</sub>
+<sub>Building from Cartagena, shipping to the world 🌎</sub>
