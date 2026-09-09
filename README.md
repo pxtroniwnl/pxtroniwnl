@@ -5,3 +5,4 @@
 Working from Cartagena, Colombia 🇨🇴 — I turn messy, real-world data into products people actually use. My focus: shipping AI products end-to-end, from the data pipeline to the deployed app.
 
 - astrodata-jobs: https://github.com/pxtroniwnl/astrodata-jobs
+- Buchón Time Series & Remote Sensing/Computer Vision: github.com/pxtroniwnl/barcelona-de-indias-time-serie
