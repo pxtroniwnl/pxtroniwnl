@@ -6,5 +6,5 @@ Working from Cartagena, Colombia — I turn messy, real-world data into products
 
 - astrodata-jobs (Data Engineering & Data Science): https://github.com/pxtroniwnl/astrodata-jobs
 - Buchón (Data Science, Time Series & Remote Sensing/Computer Vision): https://github.com/pxtroniwnl/barcelona-de-indias-time-serie
-- CME-Sentinel(Data Science, Astronomy & AI/Data Eng): https://github.com/pxtroniwnl/cme-sentinel (in progress)
+- CME-Sentinel(Data Science, Astronomy & AI/Data Eng): [https://github.com/pxtroniwnl/cme-sentinel (in progress)](https://cme-sentinel.vercel.app/)
 - karis (Data Science, Data/AI Engineering): https://github.com/pxtroniwnl/karis (in progress)
