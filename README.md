@@ -1,11 +1,14 @@
-# Hi, I'm Alejandro 👋
+# Alejandro Patron Montero
 
-**I am on top of solid data science & software engineering.**
+Data & AI Engineer in Cartagena, Colombia. I build data products end-to-end: pipeline, model, deployed app.
 
-Working from Cartagena, Colombia — I turn messy, real-world data into products people actually use. My focus: shipping AI products end-to-end, from the data pipeline to the deployed app.
+**Selected work**
 
-- SEXTANTE (Data Engineering & Data Science): https://github.com/shalom-A26/SEXTANTE 
-- CME-Sentinel(Data Science, Astronomy & AI/Data Eng): [CME-Sentinel](https://cme-sentinel.vercel.app/)
-- Nebo App (Data Science, Astronomy, Software Engineering): [Nebo App](https://nebo-app.earth/)
-- karis (Data Science, Data/AI Engineering): https://github.com/pxtroniwnl/karis (in progress)
-- Buchón (Data Science, Time Series & Remote Sensing/Computer Vision): https://github.com/pxtroniwnl/barcelona-de-indias-time-serie
+- [CME-Sentinel](https://cme-sentinel.vercel.app/): linking coronal mass ejections to satellite anomalies. [...]
+- [Nebo](https://nebo-app.earth/): [una línea de qué hace]
+- [SEXTANTE](https://github.com/shalom-A26/SEXTANTE): labor analytics over 246k+ job postings, with an ESCO occupation-skill graph.
+- [Buchón](https://github.com/pxtroniwnl/barcelona-de-indias-time-serie): aquatic vegetation monitoring with Sentinel + IDEAM data. Presented at the 20th Colombian Computing Congress.
+
+**Stack:** Python, SQL, PySpark, BigQuery, Docker, FastAPI
+
+[LinkedIn](https://www.linkedin.com/in/pxtron) · [Email](mailto:alejandropatronm@gmail.com)
